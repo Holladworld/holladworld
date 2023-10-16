@@ -61,6 +61,18 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holladworld&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
     </a>
   </div>
+  <div>
+    <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/holladstar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techbydami" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/olayinka212a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olayinka212a" height="30" width="40" /></a>>
+<a href="https://hashnode.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="#" height="30" width="40" /></a>
+<a href="https://discord.gg/Holladstar#9188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9188" height="30" width="40" /></a>
+<a href="https://facebook.com/olayinka212a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Olayinka212a" height="30" width="40" /></a>
+</p>
+
+
+  </div>
 
 <!---
 holladworld/holladworld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
