@@ -29,6 +29,8 @@
 - 💞️ I’m looking to collaborate on any softeware development specially in mobile development, Artificial Intelligence.
 - 📫 Any one can reach me by [Gmail](mailto:oladimejiolay@outlook.com)
 
+
+<!-- languages & tools -->
 ## :hammer_and_wrench: Languages and Tools :
 <div align="center"> 
   
@@ -51,7 +53,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-
+<!-- first stat -->
 ## :fire: My Stats :
   <div align="center">
     <a href="https://git.io/streak-stats">
@@ -61,7 +63,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holladworld&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
     </a>
   </div>
-  
+  <!-- connect with me -->
   <div>
     <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -72,14 +74,16 @@
 <a href="https://facebook.com/olayinka212a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Olayinka212a" height="30" width="40" /></a>
 </p>
   </div>
+  
+<!--- Support --->
   <div>
     <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/holladstar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="holladstar" /></a></p>
 
+<!--second stat-->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Holladworld&layout=compact&theme=vision-friendly-dark&show_icons=true&locale=en" alt="holladworld" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=holladworld&layout=compact&theme=vision-friendly-dark" alt="holladworld" /></p>
-
 
   </div>
 
