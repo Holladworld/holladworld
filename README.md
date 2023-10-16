@@ -12,7 +12,7 @@
   <a href="https://twitter.com/holladstar">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> <br />
-  <img src="https://komarev.com/ghpvc/?username=techbydami&style=flat-square&color=blue" alt=""/> <br />
+  <img src="https://komarev.com/ghpvc/?username=holladworld&style=flat-square&color=blue" alt=""/> <br />
 
   <h1> Hey there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
@@ -57,7 +57,7 @@
 ## :fire: My Stats :
   <div align="center">
     <a href="https://git.io/streak-stats">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=holladworld&theme=dark&background=000000" alt="GitHub Streak" />
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=techbydami&theme=dark&background=000000" alt="GitHub Streak" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holladworld&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
