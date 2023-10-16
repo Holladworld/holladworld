@@ -25,12 +25,13 @@
 ## :woman_technologist: About Me
 - 👋 Hi, I’m @holladworld
 - 👀 I’m interested in Information technology and creating a world new
-- 🌱 I’m currently learning at Bahir Dar Institute of Technology, Bahir Dar University, Ethiopia.
+- 🌱 I’m currently learning at ALXAfrica, ALX Software Engineering(Holberton) School.
 - 💞️ I’m looking to collaborate on any softeware development specially in mobile development, Artificial Intelligence.
 - 📫 Any one can reach me by [Gmail](mailto:oladimejiolay@outlook.com)
 
 ## :hammer_and_wrench: Languages and Tools :
-<div align="center">
+<div align="center"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg title="Java" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
