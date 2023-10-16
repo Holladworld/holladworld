@@ -57,17 +57,17 @@
 ## :fire: My Stats :
   <div align="center">
     <a href="https://git.io/streak-stats">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=holladworld&theme=dark&background=000000" alt="GitHub Streak" />
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=holladworl&theme=dark&background=000000" alt="GitHub Streak" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holladworl&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holladworld&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
     </a>
   </div>
   <!-- connect with me -->
   <div>
     <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/holladstar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techbydami" height="30" width="40" /></a>
+<a href="https://twitter.com/holladstar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="holladstar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/olayinka212a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olayinka212a" height="30" width="40" /></a>
 <a href="https://hashnode.com/#" target="blank"><img align="center" src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="#" height="30" width="40" /></a>
 <a href="https://discord.gg/Holladstar#9188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9188" height="30" width="40" /></a>
@@ -81,9 +81,9 @@
 <p><a href="https://www.buymeacoffee.com/holladstar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="holladstar" /></a></p>
 
 <!--second stat-->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Holladworl&layout=compact&theme=vision-friendly-dark&show_icons=true&locale=en" alt="holladworld" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Holladworld&layout=compact&theme=vision-friendly-dark&show_icons=true&locale=en" alt="holladworld" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=holladworl&layout=compact&theme=vision-friendly-dark" alt="holladworld" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=holladworld&layout=compact&theme=vision-friendly-dark" alt="holladworld" /></p>
 
   </div>
 
