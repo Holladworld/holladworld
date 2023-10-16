@@ -57,10 +57,10 @@
 ## :fire: My Stats :
   <div align="center">
     <a href="https://git.io/streak-stats">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=techbydami&theme=dark&background=000000" alt="GitHub Streak" />
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=holladworld&theme=dark&background=000000" alt="GitHub Streak" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holladworld&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techbydami&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
     </a>
   </div>
   <!-- connect with me -->
