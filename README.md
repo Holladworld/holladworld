@@ -19,7 +19,7 @@
   </h1>
 </div> <br>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif" width="600" height="300"/>
 </div> <br />
 
 ## :woman_technologist: About Me
