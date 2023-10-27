@@ -19,7 +19,7 @@
   </h1>
 </div> <br>
 <div align="center">
-  <img src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif" width="600" height="300"/>
+  <img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width="600" height="300"/>
 </div> <br />
 
 ## :woman_technologist: About Me
