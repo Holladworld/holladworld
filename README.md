@@ -26,8 +26,8 @@
 - 👋 Hi, I’m @holladworld
 - 👀 I’m interested in Information technology and creating a world new
 - 🌱 I recently graduated at ALXAfrica, ALX Software Engineering(Holberton) School, backend developer specialization.
-- 💞️ I’m looking to collaborate on any softeware development specially in mobile development, Artificial Intelligence.
-- 📫 Any one can reach me by [Gmail](mailto:oladimejiolay@outlook.com)
+- 💞️ I’m looking to collaborate on any software development specially in mobile development, game app, Artificial Intelligence and lot more.
+- 📫 Any one can reach me by [Gmail](mailto:oladimeji.olayy@gmail.com)
 
 
 <!-- languages & tools -->
