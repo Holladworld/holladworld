@@ -66,7 +66,9 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techbydami&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
     </a>
   </div>
+      
   <!-- connect with me -->
+      
   <div>
     <h3 align="left">Connect with me:</h3>
 <p align="left">
