@@ -23,11 +23,13 @@
 </div> <br />
 
 ## :woman_technologist: About Me
-- 👋 Hi, I’m @holladworld
-- 👀 I’m interested in Information technology and creating a world new
-- 🌱 I recently graduated at ALXAfrica, ALX Software Engineering(Holberton) School, backend developer specialization.
-- 💞️ I’m looking to collaborate on any software development specially in mobile development, game app, Artificial Intelligence and lot more.
-- 📫 Any one can reach me by [Gmail](mailto:oladimeji.olayy@gmail.com)
+- 👋 Hello, I’m @holladworld
+- A backedend develove and devops master
+- 🌱 Graduate of ALXAfrica, ALX Software Engineering(Holberton) School, backend developer specialization.
+- 👀 HNG Internship participant.
+- I'm interested in Information technology and creating a new world
+- 💞️ I look forward to collaborate on any software development either in mobile development, game app, Artificial Intelligence, Sever management, automation and lot more.
+- 📫 You one can reach me by [Gmail](mailto:oladimeji.olayy@gmail.com)
 
 
 <!-- languages & tools -->
@@ -56,6 +58,7 @@
 <!-- first stat -->
 ## :fire: My Stats :
   <div align="center">
+    <a href="https://git.io/streak-stats">
     <a href="https://git.io/streak-stats">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=holladworld&theme=dark&background=000000" alt="GitHub Streak" />
     </a>
