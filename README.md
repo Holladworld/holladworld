@@ -24,7 +24,7 @@
 
 ## :woman_technologist: About Me
 - 👋 Hello, I’m @holladworld
-- A backedend develove and devops master
+- A backdend develover and devops engineer.
 - 🌱 Graduate of ALXAfrica, ALX Software Engineering(Holberton) School, backend developer specialization.
 - 👀 HNG Internship participant.
 - I'm interested in Information technology and creating a new world
