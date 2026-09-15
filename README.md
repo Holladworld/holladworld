@@ -59,6 +59,7 @@
 ## :fire: My Stats :
   <div align="center">
     <a href="https://git.io/streak-stats">
+      [![GitHub Streak](https://streak-stats.demolab.com/?user=holladworld&theme=dark)](https://git.io/streak-stats)
     <a href="https://git.io/streak-stats">
       <img src="http://-streak-stats.demolab.com?user=holladworld&theme=dark&background=000000" alt="GitHub Streak" />
     </a>
