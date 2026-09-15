@@ -1,121 +1,96 @@
 <div align="center">
 
-# Hi, I'm Olayinka 👋🏾
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110"/>
 
-### Technology • Business • Data • Financial Engineering
+# OLAYINKA 👋🏾
+
+### Technology · Business · Data · Financial Engineering
 
 <p>
-  <a href="https://www.linkedin.com/in/olayinka212a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/olayinka212a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/olayinka212a">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/holladstar">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="mailto:oladimeji.olayy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Holladworld">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=Holladworld&style=for-the-badge&color=blue" alt="Profile Views"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width="700"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## BUILDING AT THE INTERSECTION OF
+
+### BUSINESS × TECHNOLOGY × DATA
+
+I build digital solutions while developing expertise in **Business Analysis, Data, and Financial Engineering**.
+
+**My focus is not simply writing code — it's understanding the problem, designing the solution, and using technology to make it work.**
 
 </div>
 
 ---
 
-## 👨🏾‍💻 About Me
-
-I'm a technology and business-focused professional with a background in **Agriculture, Software Engineering, Business Analysis, and Financial Engineering**.
-
-I enjoy working at the intersection of **business problems, technology, data, and digital transformation** — turning ideas and operational challenges into practical solutions.
-
-* 🎓 ALX Software Engineering graduate
-* 📊 Currently studying **Financial Engineering**
-* 💼 Exploring **Business Analysis, Data, Technology & Digital Transformation**
-* 🛠️ Building practical software and business solutions
-* 🤖 Interested in AI-assisted development and automation
-* 🌍 Based in Nigeria
-* 🚀 Building solutions through **Vobels**
-
-> **I don't just build software. I look at the business problem behind it.**
-
----
-
-## 🧩 What I Work With
-
-### Software & Development
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-</p>
-
-### Data, Business & Engineering
-
-* Business Analysis
-* Data Analysis
-* Financial Engineering
-* Business Process Improvement
-* Digital Transformation
-* Automation
-* Systems & Workflow Design
-* Software Product Development
-
----
-
-## 🚀 What I'm Building
-
-### 🏢 Vobels
-
-Building practical **business and career solutions** through technology, digital transformation, business support, and professional development.
-
-### 💻 BizOS
-
-A business-oriented platform designed to help businesses organize their operations, information, and digital workflows.
-
-### ⚙️ Business Automation
-
-Building solutions that connect business processes, websites, databases, spreadsheets, APIs, and business management systems.
-
----
-
-## 📌 Featured Areas
+## 👨🏾‍💻 ABOUT ME
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
 
-### 💼 Business Analysis
+### Who I Am
 
-Understanding business problems, gathering requirements, mapping processes, and translating business needs into practical technology solutions.
+I'm a technology and business-focused professional with a background spanning **Agriculture, Software Engineering, Business Analysis, and Financial Engineering**.
 
-</td>
+I enjoy solving practical problems where **business processes, technology, data, and finance** intersect.
 
-<td width="50%">
-
-### 📈 Financial Engineering
-
-Developing knowledge across quantitative finance, financial modelling, mathematics, statistics, and computational methods.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💻 Software Engineering
-
-Building web applications, business tools, APIs, automation workflows, and digital products.
+* 🎓 ALX Africa Software Engineering graduate
+* 📊 MSc Financial Engineering student
+* 💼 Building through **Vobels**
+* 💻 Software & digital solution development
+* 🔎 Business Analysis & process improvement
+* 📈 Data & quantitative thinking
+* ⚙️ Automation & digital transformation
+* 🤖 AI-assisted development
 
 </td>
 
-<td width="50%">
+<td width="45%" valign="top">
 
-### 📊 Data & Decision Making
+### Current Focus
 
-Using data, technology, and analytical thinking to support better business and financial decisions.
+```text
+Business Analysis
+       ↓
+Data & Analytics
+       ↓
+Financial Engineering
+       ↓
+Technology
+       ↓
+Digital Transformation
+       ↓
+Business Solutions
+```
 
 </td>
 </tr>
@@ -123,56 +98,165 @@ Using data, technology, and analytical thinking to support better business and f
 
 ---
 
-## 📊 GitHub
+## 🚀 WHAT I'M BUILDING
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏢 VOBELS
+
+**Business & Career Solutions**
+
+Building practical solutions for businesses and professionals across:
+
+* Digital transformation
+* Business support
+* Technology solutions
+* Business registration & compliance
+* Career development
+* Digital products
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 BizOS
+
+**Business Operations Platform**
+
+A business-focused platform designed around:
+
+* Business information
+* Operations
+* Workflows
+* Automation
+* Digital transformation
+* Business management
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🧠 WHAT I LIKE TO SOLVE
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Holladworld&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Olayinka's GitHub Stats"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holladworld&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img src="https://img.shields.io/badge/Business%20Problems-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Digital%20Transformation-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20%26%20Analytics-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Financial%20Technology-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Solutions-0D1117?style=for-the-badge"/>
 
 </div>
 
-> My GitHub represents my learning journey, experiments, projects, and the solutions I build along the way.
-
 ---
 
-## 🌱 Currently Learning
-
-```text
-Business Analysis
-        ↓
-Data & Analytics
-        ↓
-Financial Engineering
-        ↓
-Technology & Digital Transformation
-        ↓
-Practical Business Solutions
-```
-
-I'm particularly interested in how **technology, data, finance, and business processes** can work together to solve real-world problems.
-
----
-
-## 🤝 Let's Connect
-
-I'm open to collaborating on projects involving:
-
-* Business & technology solutions
-* Data and analytics
-* Financial technology
-* Automation
-* Digital transformation
-* Software products
-* Business process improvement
+## 🛠️ TECHNOLOGY
 
 <div align="center">
 
-### Thanks for visiting my profile 👋🏾
+### Languages
 
-**Building technology. Understanding business. Creating practical solutions.**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+
+<br/><br/>
+
+### Web & Application Development
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
+
+<br/><br/>
+
+### Data, Cloud & Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
+
+</div>
+
+---
+
+## 📊 GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Holladworld&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="495"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holladworld&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="330"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Holladworld&theme=github-compact&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+## 🌱 CURRENTLY LEARNING
+
+<div align="center">
+
+|      BUSINESS     |          DATA         |        FINANCE        |       TECHNOLOGY       |
+| :---------------: | :-------------------: | :-------------------: | :--------------------: |
+| Business Analysis |     Data Analytics    | Financial Engineering |  Software Engineering  |
+|    Requirements   |       Statistics      |  Quantitative Methods |       Automation       |
+|   Process Design  | Data-driven Decisions |  Financial Modelling  | Digital Transformation |
+
+</div>
+
+---
+
+## 🤝 COLLABORATION
+
+I'm interested in collaborating on projects involving:
+
+**Software Development · Business Analysis · Data · FinTech · Automation · Digital Transformation · Business Solutions**
+
+If you're building something practical, let's talk.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/olayinka212a">
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:oladimeji.olayy@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### ⚡ BUILDING WITH PURPOSE
+
+**Technology should solve problems — not just demonstrate technology.**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Holladworld&style=flat-square&color=blue" alt="Profile Views"/>
+
+<br/><br/>
+
+👋🏾 **Thanks for visiting my profile**
 
 </div>
